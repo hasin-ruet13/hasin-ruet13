@@ -7,3 +7,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=hasin-ruet13&color=blue&style=flat-square)
 ![Total Stars](https://custom-icon-badges.demolab.com/github/stars/hasin-ruet13?color=55960c&style=flat-square&label=Stars)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hasin-ruet13&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasin-ruet13&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
