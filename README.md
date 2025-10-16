@@ -5,7 +5,7 @@
 🔬 Research interests: Biomedical Imaging, Machine Learning, Data Science  
 🌱 Currently exploring Generative AI and large language models  
 🌐 Personal Website: [hasinrehana.github.io](https://hasin-ruet13.github.io/hasinrehana.github.io/)  
-🧪 See our laboratory repository: [Hur Lab @ GitHub](https://github.com/hurlab/)  
+🧪 Lab repository: [Hur Lab @ GitHub](https://github.com/hurlab/)  
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/hasinrehana) | [Google Scholar](https://scholar.google.com/citations?user=q6tQJu0AAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Hasin-Rehana)
 
 ---
